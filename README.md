@@ -10,6 +10,6 @@ This repository contains my AutoCAD practice drawings.
 
 ### Files
 
-- 📄 [https://github.com/Madhu312002/AutoCAD-Practice-Project/blob/main/pro1%20Autocad.pdf](pro1 Autocad.pdf)
+- 📄 [https://github.com/Madhu312002/AutoCAD-Practice-Project/blob/main/pro1%20Autocad.pdf](pro1_Autocad.pdf)
 - 📐 [https://raw.githubusercontent.com/Madhu312002/AutoCAD-Practice-Project/main/pro1.dwg](pro1.dwg)
 
