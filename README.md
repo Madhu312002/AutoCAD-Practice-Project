@@ -1,9 +1,15 @@
-# AutoCAD-Practice-Project
+# AutoCAD Practice Project
 
 This repository contains my AutoCAD practice drawings.
 
-Software Used:
-- AutoCAD
+## Practice 1
 
-Practice 1
-- Basic 2D Mechanical Drawing
+### Screenshot
+
+[https://github.com/Madhu312002/AutoCAD-Practice-Project/blob/main/pro1.img.png](pro1.img.png)
+
+### Files
+
+- 📄 [https://github.com/Madhu312002/AutoCAD-Practice-Project/blob/main/pro1%20Autocad.pdf](pro1 Autocad.pdf)
+- 📐 [https://raw.githubusercontent.com/Madhu312002/AutoCAD-Practice-Project/main/pro1.dwg](pro1.dwg)
+
